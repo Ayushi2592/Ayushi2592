@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi2592&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi2592" /> </p>
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **Firebase and it's different features**
 
 - 📫 How to reach me **ayushisinghfl21@gmail.com**
 
